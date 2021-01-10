@@ -1,0 +1,30 @@
+body {
+    padding: 180px 0 0 40px;
+    background: #101010;
+}
+
+pre {
+    color: rgb(255, 129, 202);
+    font-size: 32px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+
+#tagline {
+    color: rgb(108, 255, 132);
+    font-weight: 100;
+}
+
+#pow-txt {
+    display: none;
+    font-weight: 100;
+    color: #e3e3e3 !important;
+}
+
+
+
+
+
+
+
+
